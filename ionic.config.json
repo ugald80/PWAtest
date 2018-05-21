@@ -1,0 +1,8 @@
+{
+  "name": "PWAtest",
+  "app_id": "26e7e5da",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
